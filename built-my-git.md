@@ -4,6 +4,8 @@
 > 
 > now i'm using markdown for the illustration for my own setting on git, github and vscode. i wish i will understand the procedure even if i forget it or for a new fresh man somewhere.
 
+[TOC]
+
 ## 前期准备
 - 注册登录 `Github`
  
